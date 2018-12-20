@@ -1,0 +1,7 @@
+C:\Users\Fennek\source\repos\App2\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Fennek\source\repos\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Fennek\source\repos\App2\App2\bin\Debug\App2.exe.config
+C:\Users\Fennek\source\repos\App2\App2\bin\Debug\App2.exe
+C:\Users\Fennek\source\repos\App2\App2\bin\Debug\App2.pdb
+C:\Users\Fennek\source\repos\App2\App2\obj\Debug\App2.exe
+C:\Users\Fennek\source\repos\App2\App2\obj\Debug\App2.pdb
